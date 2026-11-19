@@ -6,7 +6,7 @@ title: "My ElfHosted Experience: Stremio, AIOStreams & Lessons Learned"
 description: "I really don´t know how i first knew about these service. I´m from Argentina, i´m pretty sure that i´m maybe the unique client at this country (lol)"
 author: "Fer"
 started: "2026-11-13"
-updated: "2026-11-13"
+updated: "2026-11-19"
 disclosure_mode: infrastructure
 saga_id: "SAGA-35E6JNKS"
 style: "long-read"
@@ -20,10 +20,6 @@ I really don´t know how i first knew about these service. I´m from Argentina, 
 **Which app first brought you to ElfHosted?**
 
 i think it was trhough stremio, trying to make it work
-
-## Is ElfHosted what I expected?
-
-_[Your words here: What did you expect before you started, and how has it compared?]_
 
 ## What can you run on ElfHosted?
 
@@ -85,10 +81,6 @@ As for the buffering improvements, I believe they may also be related to changin
 
 Overall, I'm satisfied with AIOStreams. There is still room for improvement in playback consistency, but the flexibility of the platform and the helpful technical support have made the experience positive.
 
-## Has it changed my free time or family life?
-
-_[Your words here: Has it changed anything at home, for your free time or your family?]_
-
 ## How useful is Sam, ElfHosted's AI assistant?
 
 I don´t use Sam, if i need IA assistantance i prefered using my own IA. That´s something new you have intrudced theese days. I´m really confortable with that kind of improvements
@@ -104,15 +96,3 @@ Private ticket and that´s really a support way that i really appreciatte
 **What did you need help with?**
 
 i used it many times, the last one was about the proxy configuration i told before
-
-## Is ElfHosted worth the money?
-
-_[Your words here: Is it worth what you pay?]_
-
-## What are the downsides?
-
-_[Your words here: What would you change?]_
-
-## Who is ElfHosted for, and who should skip it?
-
-_[Your words here: Who, if anyone, would you suggest it to? Who would it not suit?]_
